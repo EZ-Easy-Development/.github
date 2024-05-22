@@ -1,4 +1,13 @@
 ## Planned Resources 👋
+* EasyGameLib
+* EasyLib
+* EasyItemShortcuts
+* EasyAssetHelper
+* EasyTeamSystem
+* EasyDebug
+* 
+
+## Planned Supported Resources 👋
 
 **Notify:**
 * ESX
