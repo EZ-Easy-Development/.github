@@ -1,6 +1,61 @@
-## Hi there 👋
+## Planned Resources 👋
 
-**Here are some ideas to get you started:**
+**Notify:**
+* ESX
+* QB-Core
+* okokNotify
+* redutzu-notify
+* qs-notify
+* 17mov_hud
+* mythic_notify
+* wasabi_notify
+* ox_lib
+* sd-notify
+* s1n-notify
+
+**TextUI:**
+* ESX
+* QB-Core
+* okokTextUI
+* ox_lib
+* 17mov_hud
+  
+**Help Notification:**
+* 17mov_hud
+
+  
+**Billing:**
+* qs-billing
+* billing_ui
+* esx_billing
+
+**Banking:**
+* esx_banking
+* okokBanking
+* qf-banking
+
+**Garages:**
+* esx_garage
+* esx_advancedgarages
+* qs-advancedgarages
+* jg-advancedgarages
+
+**Tuning:**
+* okokTuning
+* rcore_tuning
+* jg-mechanics
+
+**Vehicle Keys:**
+* vehicles_keys
+* wasabi_carlock
+* qs-vehiclekeys
+
+  
+**Housing:**
+
+**Dispatch:**
+
+**Example:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
