@@ -5,7 +5,7 @@
 * EasyAssetHelper
 * EasyTeamSystem
 * EasyDebug
-* 
+[] Base
 
 ## Planned Supported Resources 👋
 
